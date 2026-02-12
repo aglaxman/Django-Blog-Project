@@ -10,12 +10,14 @@ def home (req):
     posts = Blog.objects.filter(is_featured = False, status = 'Published').order_by('updated_at')
     try:
         about = About.objects.first()
-        print('about:',about)
     except:
         about = None
+
+
     context = {
         'featured_posts' : featured_posts,
         'posts' : posts,
-        'about' : about
+        'about' : about,
+        
     }
     return render(req,'home.html',context)
