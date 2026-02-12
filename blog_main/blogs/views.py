@@ -1,6 +1,8 @@
 from django.shortcuts import render,get_object_or_404 ,redirect
 from django.http import Http404
 from .models import Blog,Category
+
+from assignments.models import About
 # Create your views here.
 
 def posts_by_category(req, category_id):
@@ -18,6 +20,10 @@ def posts_by_category(req, category_id):
     #! use get_object_or_404 when u wnat to use the page not found page if the cateogry doesnot exit 
     category = get_object_or_404(Category, pk = category_id)
 
+
+    # fetch the about us 
+    
+    
     context = {
         'posts' : posts,
         'category' : category,
