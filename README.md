@@ -80,11 +80,6 @@ The project was developed in professional stages:
 
 This project was developed as part of the **Premium Django Project Course** by **Tech With Rathan**. 
 
-I would like to express my gratitude to **Rathan Kumar** for providing this high-quality, industry-standard curriculum for free. Through this project, I successfully implemented:
-* **Advanced Django Logic:** Mastering multi-user roles and complex permissions.
-* **Professional Workflow:** Building a feature-rich CMS from scratch rather than a basic blog.
-* **Production Standards:** Learning the importance of clean project structure and deployment readiness.
-
 **Resources used:**
 * 📺 **Tutorial:** [Build a Complete Blogging System](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 * 🌐 **Instructor Website:** [Tech With Rathan](https://techwithrathan.com/)
