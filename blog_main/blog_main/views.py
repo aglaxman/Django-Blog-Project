@@ -1,9 +1,9 @@
 
 
-from django.shortcuts import render
+from django.shortcuts import render,redirect
 from blogs.models import Category,Blog
 from assignments.models import About
-
+from .forms import RegistrationFrom
 def home (req):
 
     featured_posts = Blog.objects.filter(is_featured = True , status = 'Published').order_by('updated_at')
@@ -21,3 +21,17 @@ def home (req):
         
     }
     return render(req,'home.html',context)
+
+
+def register(req):
+    if req.method == 'POST':
+        form = RegistrationFrom(req.POST)
+        if form.is_valid():
+            form.save()
+            return redirect('register')
+    else:
+        form = RegistrationFrom()
+    context = {
+        'form' : form
+    }
+    return render(req, 'register.html', context)
