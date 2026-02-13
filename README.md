@@ -74,3 +74,20 @@ The project was developed in professional stages:
 <img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/f5ed11c0-1195-447c-a91a-3a1f4d935127" />
 
 ---
+---
+
+## 🎓 Credits & Acknowledgments
+
+This project was developed as part of the **Premium Django Project Course** by **Tech With Rathan**. 
+
+I would like to express my gratitude to **Rathan Kumar** for providing this high-quality, industry-standard curriculum for free. Through this project, I successfully implemented:
+* **Advanced Django Logic:** Mastering multi-user roles and complex permissions.
+* **Professional Workflow:** Building a feature-rich CMS from scratch rather than a basic blog.
+* **Production Standards:** Learning the importance of clean project structure and deployment readiness.
+
+**Resources used:**
+* 📺 **Tutorial:** [Build a Complete Blogging System](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+* 🌐 **Instructor Website:** [Tech With Rathan](https://techwithrathan.com/)
+* 💬 **Community:** Part of the Tech With Rathan Discord community.
+
+---
