@@ -1,4 +1,4 @@
-# 🚀 Velocity_CMM
+# 🚀 Velocity_CMS
 
 A comprehensive, production-ready blogging platform built with **Django**. This project features a dual-interface system: a dynamic public-facing blog for readers and a secure, role-based management dashboard for editors and managers.
 
