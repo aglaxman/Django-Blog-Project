@@ -73,7 +73,8 @@ The project was developed in professional stages:
 ---
 
 ### Categories Page (Selected)
-<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/67be5e77-0b39-459f-bba5-60821a98a4c7" />
+<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/0099df46-2132-4413-af14-4e2a62b6b285" />
+
 
 
 ---
