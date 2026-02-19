@@ -61,19 +61,19 @@ The project was developed in professional stages:
 ## 🖼️ Project Showcase
 
 ###  Public Homepage
-<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/bb47a943-2963-4cb9-85e4-76f293f33053" />
+
 
 
 ---
 
 ### Blog Page
-<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/a8faf5dd-6dec-4a57-9f07-d3ca8bbe792b" />
+
 
 
 ---
 
 ### Categories Page (Selected)
-<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/0099df46-2132-4413-af14-4e2a62b6b285" />
+
 
 
 
