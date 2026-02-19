@@ -63,6 +63,7 @@ The project was developed in professional stages:
 ###  Public Homepage
 
 
+git config --global pull.rebase false
 
 ---
 
