@@ -1,4 +1,4 @@
-# 🚀 Django  Blog Project
+# 🚀 Velocity_CMS
 
 A comprehensive, production-ready blogging platform built with **Django**. This project features a dual-interface system: a dynamic public-facing blog for readers and a secure, role-based management dashboard for editors and managers.
 
@@ -61,17 +61,21 @@ The project was developed in professional stages:
 ## 🖼️ Project Showcase
 
 ###  Public Homepage
-<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/e676e12f-549d-4b93-9057-a988c9d17576" />
+
+
 
 ---
 
 ### Blog Page
-<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/6da4f9db-a67e-446b-b195-1b4fa2173274" />
+
+
 
 ---
 
 ### Categories Page (Selected)
-<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/f5ed11c0-1195-447c-a91a-3a1f4d935127" />
+
+
+
 
 ---
 ---
